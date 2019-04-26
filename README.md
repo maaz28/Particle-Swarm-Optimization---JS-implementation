@@ -1,4 +1,4 @@
-Here is the demo pso_demo(https://github.com/maaz28).
+Here is the demo pso_demo(https://pso-js.firebaseapp.com/).
 
 ## Particle Swarm Optimization
 
