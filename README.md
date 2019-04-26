@@ -4,7 +4,7 @@ Here is the demo pso_demo(https://github.com/maaz28).
 
 particle swarm optimization (PSO) is a computational method that optimizes a problem by iteratively trying to improve a candidate solution with regard to a given measure of quality. It solves a problem by having a population of candidate solutions.
 
-## How to run a project
+## How to run the project
 
 ### `1. npm install`
 
